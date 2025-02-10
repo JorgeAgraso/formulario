@@ -1,0 +1,162 @@
+.container{
+
+    background-color: rgb(32, 32, 32);
+    width: 100vw;
+    height: 100vh;
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+
+.header{
+
+    font-size: 60px;
+    height: 10%;
+    vertical-align: middle;
+    text-align: center;
+    font-family: Titulo;
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.801);
+    
+}
+
+.introduction{
+
+    font-size: 24px;
+    height: 20%;
+    text-align: center;
+    font-family: Texto;
+    color: rgb(255, 255, 255);
+    background-color: rgba(32, 32, 32);
+
+
+}
+
+
+
+.menu{
+
+    font-size: 24px;
+    height: 20%;
+    vertical-align: middle;
+    text-align: center;
+    font-family: Texto;
+    color: rgb(255, 255, 255);
+    background-color: rgb(32, 32, 32);
+
+
+}
+
+.column{
+
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+
+}
+
+.column:hover{
+
+    color: black;
+    background-color: white;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+
+}
+
+
+.tablemenu{
+
+    align-self: center;
+    border-spacing: 40px;
+}
+
+.tablecontent{
+
+    align-self: center;
+    border-spacing: 80px;
+    
+}
+
+.contentsmall{
+
+    font-size: 24px;
+    height: 50%;
+    width: 33.3%;
+    vertical-align: middle;
+    text-align: center;
+    font-family: Texto;
+    color: rgb(255, 255, 255);
+    background-color: rgb(32, 32, 32);
+    float: left;
+
+}
+
+.contentmedium{
+
+    font-size: 24px;
+    height: 50%;
+    width: 50%;
+    vertical-align: middle;
+    text-align: center;
+    font-family: Texto;
+    color: rgb(255, 255, 255);
+    background-color: rgb(32, 32, 32);
+    float: left;
+
+}
+
+
+
+.imgsize{
+
+    width: 150px;
+    height: 150px;
+}
+
+a{
+
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+
+    color: black;
+}
+
+.block {
+
+    font-size: 24px;
+    height: 50%;
+    width: 100%;
+    vertical-align: middle;
+    text-align: center;
+    font-family: Texto;
+    color: rgb(255, 255, 255);
+    background-color: rgb(32, 32, 32);
+    float: left;
+
+}
+
+.largefont{
+
+    font-family: Texto;
+    font-size: 34px;
+
+}
+.textleft{
+
+    text-align: left;
+}
+
+textarea{
+
+    max-width: 700px;
+    max-height: 200px;
+    min-width: 700px;
+    min-height: 200px;
+    
+}

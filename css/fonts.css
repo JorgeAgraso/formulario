@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Titulo;
+    src: url('../fuentes/Sixtyfour_Convergence/SixtyfourConvergence-Regular-VariableFont_BLED\,SCAN\,XELA\,YELA.ttf');
+}
+
+@font-face {
+    font-family: Texto;
+    src: url('../fuentes/Poppins/Poppins-Medium.ttf');
+}
